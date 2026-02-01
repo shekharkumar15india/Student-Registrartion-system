@@ -1,0 +1,14 @@
+[33mb45e4a6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Fixed accidental change in file
+[33me111b16[m a new code is create
+[33mc34c6bc[m code is update
+[33m9db8a0e[m a new code is create
+[33mbd2266c[m a new code is create
+[33m335a68f[m Fix: Using stable Java 21 jammy image
+[33me856421[m Upgrade to Java 21
+[33maefb517[m Fix: replaced openjdk with eclipse-temurin image
+[33ma5b0a33[m Update Dockerfile
+[33mda8d918[m Update Docker image to eclipse-temurin
+[33mc276ab7[m Updated Dockerfile to point to spring folderr
+[33me5215ca[m Fixed Dockerfile location and name
+[33mcdf0556[m Add Dockerfile for deployment
+[33m8ce1c4a[m mysql configuration
